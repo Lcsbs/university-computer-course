@@ -3,7 +3,7 @@
 > MOOC是Massive Open Online Course的缩写，被译为大型开放式网络课程。这是一种在线教育形式，任何人都能免费注册使用，它有与线下课程类似的作业评估体系和考核方式。按时完成作业和考试的学习者还可能收获导师签署的证书。
 ## 大学计算机体系图
 
-![计算机课程](resource/计算机课程体系图.png)
+![计算机课程](resource/ComputerCourseSystem.png)
 
 ## 项目目录
 
